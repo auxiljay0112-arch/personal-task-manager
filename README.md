@@ -66,3 +66,27 @@ php artisan serve
 ```
 
 Then visit `http://127.0.0.1:8000`.
+
+## SCREENSHOTS
+ADD TASK
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e03a7b0e-f304-4468-8c60-af334864a780" />
+
+VIEW TASK
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d6e0a48-b1f3-4e39-914d-b6626a221da0" />
+
+EDIT TASK
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f80467ef-7851-4093-bc59-9c127db50d42" />
+
+DELETE TASK
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87c751e5-3eaa-485f-92e7-89244f415a36" />
+
+UPDATE STATUS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab050743-9cb5-4702-af31-960a5115b50a" />
+
+
+
+
+
+
+
+
