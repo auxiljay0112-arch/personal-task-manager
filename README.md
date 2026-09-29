@@ -62,10 +62,6 @@ Quick version if you already have a Laravel app scaffolded with these
 files in place:
 
 ```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
 php artisan serve
 ```
 
